@@ -1,0 +1,18 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-addons",
+  "name": "tmch",
+  "version": "1.0",
+  "license": "MIT",
+  "category": "utilities",
+  "description": {
+    "name": "TMCH Claims Notice Support",
+    "tagline": "Supports managing Trademark Clearinghouse (TMCH) claims notices"
+  },
+  "authors": [
+    {
+      "name": "Namingo",
+      "homepage": "https:\/\/namingo.org\/"
+    }
+  ]
+}
